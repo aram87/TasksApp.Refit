@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TasksApp.Refit/TasksApp.Refit.DesktopClient/bin/Debug/net7.0-windows
+/TasksApp.Refit/TasksApp.Refit.DesktopClient/obj
